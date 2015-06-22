@@ -13,6 +13,10 @@ app.use(express.static('public')); //static route handling
 app.get('/',function(req,res){
 	res.render('index');
 	})
+app.get('/login',function(req,res){
+	res.render('index');
+	})
+
 //abv thng is call back ...first the / will b executed then function
 //req=request =>HTTP REQUEST object
 //res=response =>HTTP RESPONSE object

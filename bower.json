@@ -1,0 +1,13 @@
+{
+  "name": "codegurukul_practice",
+  "version": "0.0.0",
+  "homepage": "https://github.com/livya/codegurukul_practice",
+  "authors": [
+    "livya <davidlivya@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}
